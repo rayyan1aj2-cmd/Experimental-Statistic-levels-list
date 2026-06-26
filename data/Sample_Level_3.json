@@ -1,24 +1,12 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 129517774,
+    "name": "Luua Tron",
+    "author": "LucyObsidian",
+    "creators": ["Ixy", "Jaggxd123", "Lujain"],
+    "verifier": "Un_Beaten",
+    "verification": "https://www.youtube.com/watch?v=Dnc7X6knzPA",
     "percentToQualify": "100",
-    "password": "46290",
+    "password": "No?",
     "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
-        }
     ]
 }
