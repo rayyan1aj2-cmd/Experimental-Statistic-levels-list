@@ -2,12 +2,12 @@
     {
         "role": "owner",
         "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@Truckeater1267"
     },
     {
         "role": "admin",
         "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@Truckeater1267"
     },
     {
         "role": "helper",
@@ -17,7 +17,7 @@
     {
         "role": "trial",
         "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": ""
     },
     {
         "role": "dev",
